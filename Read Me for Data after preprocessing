@@ -1,1 +1,5 @@
 The data after preprocessing.
+This study utilizes two datasets, 1A and 1B, which consist of both raw data and detection prediction datasets generated using the YOLO model for cropping. 
+The raw data from 1A and 1B are primarily employed for model training and validation, while the YOLO-cropped datasets deliver more precise object detection outcomes, 
+thereby improving the model's performance and accuracy. Through a thorough analysis of these datasets, this work lays a solid foundation for future research and practical applications.
+Due to file upload restrictions, we will upload the dataset in batches.
