@@ -1,2 +1,3 @@
-# Detection-of-uterus-and-automatic-staging-of-early-endometrial-cancer-in-MRI-
-Detection of uterus and automatic staging of early endometrial cancer in MRI based on real-time object detection networks
+DCS-NET: A multi-task model for detection of key anatomical structures and automatic staging of early endometrial cancer in MRI
+Endometrial cancer (EC) is the most prevalent gynecological malignancy, with its incidence steadily rising globally. Abnormal vaginal bleeding, a key clinical symptom, facilitates early detection, which is crucial for improving patient outcomes. Pelvic magnetic resonance imaging (MRI) is the primary modality for evaluating EC, as it provides detailed visualization of the depth of invasion into the endometrial and myometrial tissues. This study proposes DCS-Net, a multi-task deep learning framework, to automate the staging and detection of early-stage EC in MRI images. The framework integrates YOLOv5 for uterine region detection and cropping, followed by ResNet34 classification model for accurate staging.
+We selectively disclose the model source code and experimental data.
